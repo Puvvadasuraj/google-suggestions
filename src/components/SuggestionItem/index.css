@@ -1,0 +1,23 @@
+.but {
+  background-color: transparent;
+  border: none;
+
+  cursor: pointer;
+  outline: none;
+  height: 120px;
+}
+
+.img {
+  height: 50px;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.element {
+  color: #bfbfbf;
+  font-weight: bold;
+}
